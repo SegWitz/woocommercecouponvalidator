@@ -8,5 +8,5 @@
 <h3>Note:- this will only work with woocommerce.</h3>
 ========================================
 
-<h1> Zotta Labs (M) PLT.</h1>
-<img src="https://zottalabs.com/wp-content/uploads/2019/01/zotta-labs-icon.png" alt="Zotta Labs">
+<h1> SegWitz </h1>
+<img src="https://segwitz.com/wp-content/uploads/2019/07/segwitztech.png" alt="SegWitz">
