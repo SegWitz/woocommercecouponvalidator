@@ -1,4 +1,4 @@
-# TappscottTV
+
 ========================================
 <ol>
   <li>add this code to functions.php in your theme/child theme.</li>
